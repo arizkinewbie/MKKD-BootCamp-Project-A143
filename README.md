@@ -1,2 +1,3 @@
-# MKKD-BootCamp-Project-A143
-Kecerdasan Digital
+# Kecerdasan Digital Bootcamp Project - A143
+Kelompok terdiri dari :
+* Arizki Putra Rahman 
